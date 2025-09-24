@@ -72,3 +72,8 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+
+# Proyect input and output data
+images/
+output/
