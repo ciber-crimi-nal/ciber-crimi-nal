@@ -1,4 +1,4 @@
-from typing import Literal
+from typing import Dict, Literal, Optional
 from ultralytics import YOLO
 from scripts.dni import *
 import scripts.utils as utils
@@ -127,9 +127,10 @@ def read_picture(path_file: str, side: Literal["front", "back"], debug=False) ->
 
 
 def read_dni(path_files: [str, str], sides: [str, str], debug=False) -> dict[str, str] | bool:
-    dni_data = get_dni()
+    results: Dict[str, Optional[np.ndarray]] = {"front": None, "back": None}
 
     for path_file, side in zip(path_files, sides):
-        dni_data = read_picture(path_file, side, debug)
-
-    return dni_data
+        img = read_picture(path_file, side, debug)
+        if img is not None:
+            results[side] = img
+    return results
