@@ -1,7 +1,0 @@
-matplotlib==3.10.6
-numpy==2.3.3
-opencv_python==4.11.0.86
-opencv_python_headless==4.11.0.86
-Pillow==11.3.0
-reportlab==4.4.4
-ultralytics==8.3.203
