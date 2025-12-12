@@ -1,0 +1,82 @@
+# Ignora entornos virtuales, caches y directorios con datos/imagenes pesadas
+
+# cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtualenv / dotenv
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*..db
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Compiled C extensions
+*.so
+
+# Numba cache
+numba_cache/
+**/numba_cache/
+
+# Output / temporary / results
+salidas/
+output/
+outputs/
+results/
+tmp/
+temp/
+
+# Faces / images / generated datasets
+faces_source/
+dni_generator/dni_fakegen/faces/
+**/faces/
+**/images/
+**/images/**
+
+# Machine learning models / weights (optional - add if you don't want to track)
+*.caffemodel
+*.pb
+*.prototxt
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and environment files
+secrets.json
