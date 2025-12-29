@@ -1,3 +1,21 @@
+"""
+Synthetic Data
+=================
+Este módulo se encarga de:
+- Generar los datos textuales aleatorios (nombres, fechas, direcciones).
+- Calcular códigos de seguridad (MRZ, DNI, CAN).
+- Procesar gráficamente la fotografía de la persona.
+- Componer todos los elementos sobre la plantilla visual final.
+"""
+
+__author__ = "Fernando Broncano"
+__copyright__ = "Copyright 2025, Universidad de Extremadura"
+__credits__ = ["Antonio Calvo", "Fernando Broncano", "Sergio Guijarro"]
+__version__ = "1.0.1"
+__maintainer__ = "Antonio Calvo"
+__email__ = "acalvopic@unex.es"
+__status__ = "Development"
+
 import datetime
 import math
 import os

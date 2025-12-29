@@ -1,3 +1,21 @@
+"""
+Dni Pipeline
+=================
+Este script implementa el flujo de trabajo (pipeline) completo 
+para generar un DNI desde cero. Su función principal es coordinar 
+la creación de la foto por IA, inyectar esa foto y los datos de la persona 
+en el motor de generación de documentos (Synthetic Data), y guardar los resultados 
+finales (anverso, reverso y metadatos) de forma estructurada.
+"""
+
+__author__ = "Antonio Calvo"
+__copyright__ = "Copyright 2025, Universidad de Extremadura"
+__credits__ = ["Antonio Calvo", "Fernando Broncano", "Sergio Guijarro"]
+__version__ = "1.0.1"
+__maintainer__ = "Antonio Calvo"
+__email__ = "acalvopic@unex.es"
+__status__ = "Development"
+
 from __future__ import annotations
 
 import json

@@ -1,3 +1,21 @@
+"""
+Visualization
+=================
+Este script proporciona una interfaz gráfica de usuario (GUI) 
+ligera para observar el proceso de generación del DNI en tiempo real. 
+Actúa como una ventana de depuración o demostración, permitiendo al usuario 
+ver cómo el script Synthetic Data va componiendo las capas (fondo, textos, foto, firma) 
+paso a paso.
+"""
+
+__author__ = "Antonio Calvo"
+__copyright__ = "Copyright 2025, Universidad de Extremadura"
+__credits__ = ["Antonio Calvo", "Fernando Broncano", "Sergio Guijarro"]
+__version__ = "1.0.1"
+__maintainer__ = "Antonio Calvo"
+__email__ = "acalvopic@unex.es"
+__status__ = "Development"
+
 from __future__ import annotations
 
 import time

@@ -1,3 +1,21 @@
+"""
+Main
+=================
+Este script actúa como el punto de entrada principal (CLI) para la 
+generación de DNIs españoles sintéticos. Su objetivo es crear lotes de imágenes 
+de documentos de identidad (anverso y reverso) utilizando Inteligencia Artificial 
+para generar rostros realistas que coincidan con los metadatos (edad, género) 
+especificados o aleatorios.
+"""
+
+__author__ = "Antonio Calvo"
+__copyright__ = "Copyright 2025, Universidad de Extremadura"
+__credits__ = ["Antonio Calvo", "Fernando Broncano", "Sergio Guijarro"]
+__version__ = "1.0.1"
+__maintainer__ = "Antonio Calvo"
+__email__ = "acalvopic@unex.es"
+__status__ = "Development"
+
 from __future__ import annotations
 
 import argparse

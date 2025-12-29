@@ -1,3 +1,23 @@
+"""
+Image Generation
+=================
+Su función es conectar el modelo de generaación de 
+imágenes para generar retratos fotorrealistas de estilo biométrico/pasaporte, 
+basados en una edad y género específicos.
+
+Se utiliza una API REST para comunicarse con el modelo de generación de imágenes.
+
+En caso de tener desplegado el modelo, ajustar URL.
+"""
+
+__author__ = "Antonio Calvo"
+__copyright__ = "Copyright 2025, Universidad de Extremadura"
+__credits__ = ["Antonio Calvo", "Fernando Broncano", "Sergio Guijarro"]
+__version__ = "1.0.1"
+__maintainer__ = "Antonio Calvo"
+__email__ = "acalvopic@unex.es"
+__status__ = "Development"
+
 import requests
 import json
 import os
