@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 """
 Dni Pipeline
 =================
@@ -15,8 +17,6 @@ __version__ = "1.0.1"
 __maintainer__ = "Antonio Calvo"
 __email__ = "acalvopic@unex.es"
 __status__ = "Development"
-
-from __future__ import annotations
 
 import json
 import os

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Main
 =================
@@ -15,8 +16,6 @@ __version__ = "1.0.1"
 __maintainer__ = "Antonio Calvo"
 __email__ = "acalvopic@unex.es"
 __status__ = "Development"
-
-from __future__ import annotations
 
 import argparse
 from pathlib import Path
