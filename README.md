@@ -9,35 +9,67 @@ Este repositorio recopila materiales generados en el contexto del proyecto, espe
 
 Incluye documentación de jornadas, presentaciones y comunicaciones científicas orientadas a concienciar sobre los riesgos asociados al uso y procesamiento automatizado de documentos de identidad.
 
-## Estructura del repositorio
+## 📁 Estructura del repositorio
 
 ```
-├── T15.1 Jornadas Protege Tu Identidad
-│   └── T15_1_Protege tu Identidad.pdf
-├── T15.2 Presentación y comunicación
-│   ├── Evaluación_de_riesgos_en_el_procesamiento_automatizado_de_Documentos_Nacionales_de_Identidad.pdf
-│   ├── LibrodeActasRECSI2026.pdf
-│   └── Presentación RECSI.pdf
+├── T10-Redacción de trabajos para revistas científicas
+├── T11-Redacción de comunicaciones para congresos científicos
+├── T12-Dirección de Trabajos Fin de Estudio y Tesis Doctorales
+├── T13-Estancias de investigación en Centros Internacionales
+├── T14-Participación en charlas y jornadas de difusión
+├── T15-Elaboración de cursos de formación
 └── README.md
 ```
+---
+### T1 – T9
 
-## T15.1 Jornadas “Protege Tu Identidad”
-
-Jornadas celebradas en marzo de 2026 en las ciudades de Mérida y Cáceres, centradas en la concienciación sobre la protección de la identidad digital. Estas actividades forman parte de las acciones de transferencia y divulgación del proyecto.
-
-* 📄 Documento: `T15_1_Protege tu Identidad.pdf`
-* 🌐 Web oficial: [https://protegetuidentidad.es/](https://protegetuidentidad.es/)
+Ya incluidos en la memoria en el Anexo.
 
 ---
 
-## T15.2 Presentación y Comunicación
+### T10 – Redacción de trabajos para revistas científicas
 
-Participación en el congreso XIX RECSI 2026, mediante el envío y aceptación del artículo:
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T10-Redacción%20de%20trabajos%20para%20revistas%20científicas](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T10-Redacción%20de%20trabajos%20para%20revistas%20científicas)
 
-“Evaluación de riesgos en el procesamiento automatizado de Documentos Nacionales de Identidad”
 
-Se incluyen los siguientes materiales: artículo, presentación y libro de actas del congreso:
+### T11 – Comunicaciones en congresos científicos
 
-* 📄 `Evaluación_de_riesgos_en_el_procesamiento_automatizado_de_Documentos_Nacionales_de_Identidad.pdf`
-* 📄 `LibrodeActasRECSI2026.pdf`
-* 📄 `Presentación RECSI.pdf`
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T11-Redacción%20de%20comunicaciones%20para%20congresos%20científicos](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T11-Redacción%20de%20comunicaciones%20para%20congresos%20científicos)
+
+---
+
+### T12 – Dirección de Trabajos Fin de Estudio
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T12-Dirección%20de%20Trabajos%20Fin%20de%20Estudio%20y%20Tesis%20Doctorales](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T12-Dirección%20de%20Trabajos%20Fin%20de%20Estudio%20y%20Tesis%20Doctorales)
+
+---
+
+### T13 – Estancias de investigación
+
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T13-Estancias%20de%20investigación%20en%20Centros%20de%20Internacionales](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T13-Estancias%20de%20investigación%20en%20Centros%20de%20Internacionales)
+
+---
+
+### T14 – Participación en charlas y jornadas
+
+#### T14.1
+
+Incluida en el anexo.
+
+#### T14.2 – T14.6
+
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T14-Participación%20en%20charlas%20y%20jornadas%20de%20difusión](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T14-Participación%20en%20charlas%20y%20jornadas%20de%20difusión)
+---
+
+### T15 – Elaboración de cursos de formación
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T15-Elaboración%20de%20cursos%20de%20formación](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T15-Elaboración%20de%20cursos%20de%20formación)
+
+
+#### T15.1 Jornadas “Protege Tu Identidad”
+
+* [https://protegetuidentidad.es/](https://protegetuidentidad.es/)
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T15.1%20Jornadas%20Protege%20Tu%20Identidad](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T15.1%20Jornadas%20Protege%20Tu%20Identidad)
+
+
+#### T15.2 Presentación y Comunicación (RECSI 2026)
+
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T15.2%20Presentaci%C3%B3n%20y%20comunicaci%C3%B3n](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T15.2%20Presentaci%C3%B3n%20y%20comunicaci%C3%B3n)
