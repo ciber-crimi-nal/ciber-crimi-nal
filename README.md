@@ -29,17 +29,17 @@ Ya incluidos en la memoria en el Anexo.
 
 ### T10 – Redacción de trabajos para revistas científicas
 
-* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T10-Redacción%20de%20trabajos%20para%20revistas%20científicas](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T10-Redacción%20de%20trabajos%20para%20revistas%20científicas)
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T10-Redacci%C3%B3n%20de%20trabajos%20para%20revistas%20cient%C3%ADficas.%20](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T10-Redacci%C3%B3n%20de%20trabajos%20para%20revistas%20cient%C3%ADficas.%20)
 
 
 ### T11 – Comunicaciones en congresos científicos
 
-* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T11-Redacción%20de%20comunicaciones%20para%20congresos%20científicos](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T11-Redacción%20de%20comunicaciones%20para%20congresos%20científicos)
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T11-Redacci%C3%B3n%20de%20comunicaciones%20para%20congresos%20cient%C3%ADficos.%20](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T11-Redacci%C3%B3n%20de%20comunicaciones%20para%20congresos%20cient%C3%ADficos.%20)
 
 ---
 
 ### T12 – Dirección de Trabajos Fin de Estudio
-* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T12-Dirección%20de%20Trabajos%20Fin%20de%20Estudio%20y%20Tesis%20Doctorales](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T12-Dirección%20de%20Trabajos%20Fin%20de%20Estudio%20y%20Tesis%20Doctorales)
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T12-Direcci%C3%B3n%20de%20Trabajos%20Fin%20de%20Estudio%20y%20Tesis%20Doctorales](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T12-Direcci%C3%B3n%20de%20Trabajos%20Fin%20de%20Estudio%20y%20Tesis%20Doctorales)
 
 ---
 
@@ -57,7 +57,7 @@ Incluida en el anexo.
 
 #### T14.2 – T14.6
 
-* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T14-Participación%20en%20charlas%20y%20jornadas%20de%20difusión](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T14-Participación%20en%20charlas%20y%20jornadas%20de%20difusión)
+* [https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T14-Participaci%C3%B3n%20en%20charlas%20y%20jornadas%20de%20difusi%C3%B3n.%20](https://github.com/ciber-crimi-nal/ciber-crimi-nal/tree/main/T14-Participaci%C3%B3n%20en%20charlas%20y%20jornadas%20de%20difusi%C3%B3n.%20)
 ---
 
 ### T15 – Elaboración de cursos de formación
